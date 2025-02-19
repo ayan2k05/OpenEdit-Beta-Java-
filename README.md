@@ -60,7 +60,7 @@ Toggle between theme with the **"Toggle Theme"** button.
 
 ## Magic Inside the Code  
 
-- **Line Numbering** – A function that somehow counts lines correctly. 
+- **Line Numbering** – A function that counts lines correctly. 
 - **Auto-Braces** – Because manually closing brackets is so 2005. 
 - **Dynamic Font Size Adjustment** – Zoom in and out.
 - **Low budget python dev will love it** - Yeah i have added Indentation on TAB, so you low-budget, low-testosterone guys can code while arguing that how python have changed the whole universe. (Cry about it, I prefer java and C or maybe C++, if i really want to shoot myself in balls)
@@ -95,4 +95,3 @@ If you like OpenEdit, give it a ⭐ on GitHub (else you are gay).
 
 ## Disclaimer  
 This editor comes with no warranty. If it crashes, explodes, or summons demons, that’s on you. 
-**Don't touch the code if you don't understand, it has been held togather with prayers and blessings.**
