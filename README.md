@@ -31,7 +31,7 @@ If you need a simple yet functional text editor that doesn’t judge you for you
 ### Running OpenEdit  
 1. **Clone the repo** (or download it like a caveman): 
    ```sh
-   git clone https://github.com/ayan2k05/OpenEdit-Beta(java).git
+   git clone https://github.com/ayan2k05/OpenEdit-Beta-java-.git
    cd BetaEdit
    ```
 
